@@ -7,7 +7,7 @@
     <span class="highlight">Fun</span> into <em>Fun</em>ctions.
   </p>
   
-<a href="https://google.com" target="_blank">
+<a href="https://www.orimoo.com" target="_blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/Chat%20With%20Me-brightgreen">
 </a>
 
