@@ -21,13 +21,13 @@
 
 
 <div style="width: 300px; height: 300px; overflow: hidden; border-radius: 10px;">
-  <img src="https://github.com/user-attachments/assets/4945aed8-13dd-4c76-ab08-076251872cda" alt="Study" width="450"/>
+  <img src="https://github.com/user-attachments/assets/4945aed8-13dd-4c76-ab08-076251872cda" alt="Study" width="400"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/9c50997c-be27-4080-b7b5-cd65d1995026" alt="Calculator" width="450"/>
+  <img src="https://github.com/user-attachments/assets/9c50997c-be27-4080-b7b5-cd65d1995026" alt="Calculator" width="400"/>
  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/bb6b1007-0342-4f87-8691-46fbb3407fcc" alt="Shortday" width="450"/>
+  <img src="https://github.com/user-attachments/assets/bb6b1007-0342-4f87-8691-46fbb3407fcc" alt="Shortday" width="400"/>
  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/44ddfc6d-50b5-4a4f-b5d3-92fab13b5a55" alt="RPGy" width="450"/>
+  <img src="https://github.com/user-attachments/assets/44ddfc6d-50b5-4a4f-b5d3-92fab13b5a55" alt="RPGy" width="400"/>
 </div>
 
 
